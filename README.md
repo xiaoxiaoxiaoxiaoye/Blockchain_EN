@@ -293,7 +293,8 @@ Unlike other blockchain media, the newsletters and articles in TokenPocket are m
 ## How to Choose a Blockchain Wallet
 
 ```
-Firstly, we need to know the differences between centralized wallets and decentralized wallets,  then we can make a choice based on our own needs.
+Firstly, we need to know the differences between centralized wallets and decentralized wallets, 
+then we can make a choice based on our own needs.
 ```
 
 
