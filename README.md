@@ -297,20 +297,20 @@ Firstly, we need to know the differences between centralized wallets and decentr
 ```
 
 
-| **Centralized wallets**                                      | **Decentralized wallets**                                         |
-| ------------------------------------------------------------ | ----------------------------------------------------------------- |
-| The private key is held by the platform                      | The private key is held by users                                  |
-| Assets are stored in the wallet of the platform              | Assets are stored in users' wallet                                |
-| Password can be retrieved                                    | Password can NOT be retrieved                                     |
-| The platform need audit the transfer                         | The platform don’t need to audit the transfer                     |
-| Centralized account is NOT available on the wallet platforms | Decentralized account is available on all of the wallet platforms |
-| No fees for internal platform transfers;                     |
-| Fees for withdrawal of assets.                               | Asset transfer only pays for blockchain network fees              |
-| The risks of the platform lost coins:                        |
-The platform wallet was hacked, the service was attacked, the platform was closed (the wallet service was closed), the platform cheats.
- | The risks of the wallets lost coins:
+| **Centralized wallets**                                                                                                                 | **Decentralized wallets**                                         |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| The private key is held by the platform                                                                                                 | The private key is held by users                                  |
+| Assets are stored in the wallet of the platform                                                                                         | Assets are stored in users' wallet                                |
+| Password can be retrieved                                                                                                               | Password can NOT be retrieved                                     |
+| The platform need audit the transfer                                                                                                    | The platform don’t need to audit the transfer                     |
+| Centralized account is NOT available on the wallet platforms                                                                            | Decentralized account is available on all of the wallet platforms |
+| No fees for internal platform transfers;                                                                                                | Asset transfer only pays for blockchain network                   |
+| Fees for withdrawal of assets.                                                                                                          |
+| The risks of the platform lost coins:                                                                                                   |
+| The platform wallet was hacked, the service was attacked, the platform was closed (the wallet service was closed), the platform cheats. | The risks of the wallets lost coins:                              |
 Private key leaks or being forgotten, private keys are not backed up, wallet-installed devices are lost (mobile phones, computers), and wallets are infected with viruses.
- |
+
+ 
 
 ## The Directory of Blockchain Walle
 
