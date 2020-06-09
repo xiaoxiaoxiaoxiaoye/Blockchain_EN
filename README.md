@@ -790,131 +790,82 @@ then we can make a choice based on our own needs.
 
 The following questions are posted on the official website help center in TokenPocket wallet.
 URL:
-https://help.mytokenpocket.vip/hc/zh-cn
+https://help.mytokenpocket.vip/hc/en-001/categories/360001557752-User-Guide
 
 
-<img src="https://gz.bcebos.com/v1/tp-statics/logo/QA-code.jpg" width="250">
+<img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1591683318153.png" width="250">
 
 ### BTC (bitcoin) wallet problems
 
-1.[How to create BTC bitcoin Wallet](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037208612-%E5%9C%A8TokenPocket%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BABTC%E9%92%B1%E5%8C%85-)
+1.[Where is the price of BTC in TokenPocket wallet displayed according to?](https://help.mytokenpocket.vip/hc/en-001/articles/900000692723-Where-is-the-price-of-BTC-in-TokenPocket-wallet-displayed-according-to-)
 
-2.[How to back up BTC bitcoin private key](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037208872-%E5%A6%82%E4%BD%95%E5%A4%87%E4%BB%BDBTC%E6%AF%94%E7%89%B9%E5%B8%81%E7%A7%81%E9%92%A5-)
+2.[Will it give me interest if I deposit BTC in the TokenPocket wallet?](https://help.mytokenpocket.vip/hc/en-001/articles/900000694086-Will-it-give-me-interest-if-I-deposit-BTC-in-the-TokenPocket-wallet-)
 
-3.[BTC比特币私钥丢了怎么办](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037208972-BTC%E7%A7%81%E9%92%A5%E4%B8%A2%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E-)
+3.[Can I mine BTC bitcoin with the TokenPocket wallet?](https://help.mytokenpocket.vip/hc/en-001/articles/900000694066-Can-I-mine-BTC-bitcoin-with-the-TokenPocket-wallet-)
 
-4.[What to do if the BTC bitcoin private key is lost](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037209032-%E5%A6%82%E4%BD%95%E9%87%8D%E7%BD%AEBTC%E9%92%B1%E5%8C%85%E5%AF%86%E7%A0%81-)
+4.[What coins are on the BTC network?](https://help.mytokenpocket.vip/hc/en-001/articles/900000692703-What-coins-are-on-the-BTC-network-)
 
-5.[How to import BTC bitcoin private key into Wallet](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037211032-%E5%A6%82%E4%BD%95%E5%B0%86btc%E7%A7%81%E9%92%A5%E5%AF%BC%E5%85%A5%E9%92%B1%E5%8C%85-)
+5.[Will I lose my bitcoin stored in my TokenPocket wallet? Will my wallet steal my BTC?](https://help.mytokenpocket.vip/hc/en-001/articles/900000694046-Will-I-lose-my-bitcoin-stored-in-my-TokenPocket-wallet-Will-my-wallet-steal-my-BTC-)
 
-6.[How to transfer BTC bitcoin to exchange with wallet](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037209852-%E5%A6%82%E4%BD%95%E7%94%A8%E9%92%B1%E5%8C%85%E6%8A%8Abtc%E8%BD%AC%E5%85%A5%E4%BA%A4%E6%98%93%E6%89%80-)
+6.[When my TokenPocket wallet APP was disconnected, someone transferred BTC bitcoin to me. Can I receive it?](https://help.mytokenpocket.vip/hc/en-001/articles/900000694026-When-my-TokenPocket-wallet-APP-was-disconnected-someone-transferred-BTC-bitcoin-to-me-Can-I-receive-it-)
 
-7.[How to set BTC bitcoin miner fee](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037576691-%E5%A6%82%E4%BD%95%E8%AE%BE%E7%BD%AEbtc%E7%9A%84%E7%9F%BF%E5%B7%A5%E8%B4%B9-)
+7.[Is there a bitcoin browser in the TokenPocket wallet? How to use it?](https://help.mytokenpocket.vip/hc/en-001/articles/900000692663-Is-there-a-bitcoin-browser-in-the-TokenPocket-wallet-How-to-use-it-)
 
-8.[Can BTC bitcoin transfer speed up?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037211172-BTC%E6%AF%94%E7%89%B9%E5%B8%81%E8%BD%AC%E8%B4%A6%E6%85%A2%E5%8F%AF%E4%BB%A5%E5%8A%A0%E9%80%9F%E5%90%97)
+8.[How to change the name of bitcoin (BTC) wallet in TokenPocket wallet?](https://help.mytokenpocket.vip/hc/en-001/articles/900000693946-How-to-change-the-name-of-bitcoin-BTC-wallet-in-TokenPocket-wallet-)
 
-9.[What is BTC isolation witness?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037362692-%E4%BB%80%E4%B9%88%E6%98%AFBTC%E9%9A%94%E7%A6%BB%E8%A7%81%E8%AF%81-)
+9.[How to create a BTC wallet in TokenPocket?](https://help.mytokenpocket.vip/hc/en-001/articles/900000692603-How-to-create-a-BTC-wallet-in-TokenPocket-)
 
-10.[What is bitcoin proof of work (POW)?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037363992-BTC%E6%AF%94%E7%89%B9%E5%B8%81%E7%9A%84%E5%B7%A5%E4%BD%9C%E9%87%8F%E8%AF%81%E6%98%8E-POW-%E6%98%AF%E4%BB%80%E4%B9%88-)
+10.[How to backup bitcoin private key?](https://help.mytokenpocket.vip/hc/en-001/articles/900000693926-How-to-backup-bitcoin-private-key-)
 
-[Click to see more](https://help.mytokenpocket.vip/hc/zh-cn/sections/360007340872-%E6%AF%94%E7%89%B9%E5%B8%81-BTC-%E9%92%B1%E5%8C%85%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
+[Click to see more](https://help.mytokenpocket.vip/hc/en-001/sections/900000131723-BTC)
 
 ### Eth wallet problems
 
-1.[How to create eth Wallet](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037514271-%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BAETH%E9%92%B1%E5%8C%85-)
+1.[How to create ETH wallet?](https://help.mytokenpocket.vip/hc/en-001/articles/900000740323-How-to-create-ETH-wallet-)
 
-2.[How to retrieve the previous eth Wallet](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037151792-%E5%A6%82%E4%BD%95%E6%89%BE%E5%9B%9E%E4%B9%8B%E5%89%8D%E7%9A%84ETH%E9%92%B1%E5%8C%85-)
+2.[How to retrieve the previous ETH wallet?](https://help.mytokenpocket.vip/hc/en-001/articles/900000744626-How-to-retrieve-the-previous-ETH-wallet-)
 
-3.[How to purchase eth assets](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037152332-%E6%80%8E%E6%A0%B7%E8%B4%AD%E4%B9%B0ETH%E8%B5%84%E4%BA%A7-)
+3.[How to purchase ETH assets?](https://help.mytokenpocket.vip/hc/en-001/articles/900000740283-How-to-purchase-ETH-assets-)
 
-4.[How to recharge eth to Wallet](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037153092-%E6%80%8E%E6%A0%B7%E5%85%85%E5%80%BCETH%E5%88%B0%E9%92%B1%E5%8C%85-)
+4.[How to transfer ETH（in the exchange） to wallet?](https://help.mytokenpocket.vip/hc/en-001/articles/900000740263-How-to-transfer-ETH-in-the-exchange-to-wallet-)
 
-5.[How to sell eth in wallet for cash](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037153552-%E9%92%B1%E5%8C%85%E9%87%8C%E7%9A%84ETH%E5%A6%82%E4%BD%95%E5%8D%96%E5%87%BA%E5%8F%98%E7%8E%B0-)
+5.[How does ETH in the wallet sell for cash?](https://help.mytokenpocket.vip/hc/en-001/articles/900000740243-How-does-ETH-in-the-wallet-sell-for-cash-)
 
-6.[What about the ETH transfer record?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037153712-ETH%E8%BD%AC%E8%B4%A6%E8%AE%B0%E5%BD%95%E6%80%8E%E4%B9%88%E7%9C%8B-)
+6.[How to transfer/receive ETH from others?](https://help.mytokenpocket.vip/hc/en-001/articles/900000740183-How-to-transfer-receive-ETH-from-others-)
 
-7.[How to transfer / collect eth from others?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037516471-%E6%80%8E%E4%B9%88%E5%90%91%E4%BB%96%E4%BA%BA%E8%BD%AC%E8%B4%A6-%E6%94%B6%E5%8F%96ETH-)
+7.[What is the ETH transfer fee and gas?](https://help.mytokenpocket.vip/hc/en-001/articles/900000740063-What-is-the-ETH-transfer-fee-and-gas-)
 
-8.[What do you mean by the service charge and gas charge of eth transfer?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037516511-ETH%E8%BD%AC%E8%B4%A6%E7%9A%84%E6%89%8B%E7%BB%AD%E8%B4%B9%E5%92%8Cgas%E8%B4%B9%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D-)
+8.[Do you have to worry about CPU issues when playing ETH dapps?](https://help.mytokenpocket.vip/hc/en-001/articles/900000740023-Do-you-have-to-worry-about-CPU-issues-when-playing-ETH-dapps-)
 
-9.[Can eth wallets created from tokenpocket wallets be transferred to other wallets?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037516591-%E5%A6%82%E4%BD%95%E5%BE%80%E9%92%B1%E5%8C%85%E5%85%85%E5%80%BC%E5%9F%BA%E4%BA%8EETH%E5%85%AC%E9%93%BE%E7%9A%84%E5%85%B6%E4%BB%96Token-)
+9.[Can the ETH address created from TokenPocket be transferred to another wallet?](https://help.mytokenpocket.vip/hc/en-001/articles/900000744526-Can-the-ETH-address-created-from-TokenPocket-be-transferred-to-another-wallet-)
 
-10.[How to recharge other currencies based on eth public chain?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037516591-%E5%A6%82%E4%BD%95%E5%BE%80%E9%92%B1%E5%8C%85%E5%85%85%E5%80%BC%E5%9F%BA%E4%BA%8EETH%E5%85%AC%E9%93%BE%E7%9A%84%E5%85%B6%E4%BB%96Token-)
+10.[How to transfer to the wallet other tokens based on ETH ?](https://help.mytokenpocket.vip/hc/en-001/articles/900000744506-How-to-transfer-to-the-wallet-other-tokens-based-on-ETH-)
 
-[Click to see more](https://help.mytokenpocket.vip/hc/zh-cn/sections/360007354652-ETH-%E4%BB%A5%E5%A4%AA%E5%9D%8A-%E9%92%B1%E5%8C%85%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
-
-### EOS (grapefruit) wallet problems
-
-1.[How to get EOS grapefruit?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037250532-%E5%A6%82%E4%BD%95%E5%9C%A8TokenPocket%E9%92%B1%E5%8C%85%E8%B4%AD%E4%B9%B0EOS-)
-
-2.[How to retrieve EOS from exchange to Wallet](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037250712-%E5%A6%82%E4%BD%95%E4%BB%8E%E4%BA%A4%E6%98%93%E6%89%80%E6%8F%90%E5%8F%96EOS%E5%88%B0TokenPocket%E9%92%B1%E5%8C%85-)
-
-3.[How to register an EOS account](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037250892-%E5%A6%82%E4%BD%95%E6%B3%A8%E5%86%8CEOS%E8%B4%A6%E5%8F%B7)
-
-4.[How to transfer and collect EOS](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037620971-%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8CEOS%E7%9A%84%E8%BD%AC%E8%B4%A6-%E6%94%B6%E6%AC%BE-)
-
-5.[What are the resources of EOS? What does RAM (memory) CPU (network resource) net (computing resource) mean?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037623871-EOS%E7%9A%84%E8%B5%84%E6%BA%90%E5%8F%88%E5%93%AA%E4%BA%9B-RAM-%E5%86%85%E5%AD%98-cpu-%E7%BD%91%E7%BB%9C%E8%B5%84%E6%BA%90-net-%E8%AE%A1%E7%AE%97%E8%B5%84%E6%BA%90-%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D-)
-
-6.[Accidentally uninstalled the tokenpocketapp, and the private key was not saved. Can it be retrieved?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037254452-%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ATokenPocket-APP%E5%8D%B8%E8%BD%BD%E4%BA%86-%E7%A7%81%E9%92%A5%E4%B9%9F%E6%B2%A1%E4%BF%9D%E5%AD%98%E8%83%BD%E5%90%A6%E6%89%BE%E5%9B%9E-)
-
-7.[Is there a service charge for EOS transfer?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037505611-EOS%E8%BD%AC%E8%B4%A6%E6%9C%89%E6%89%8B%E7%BB%AD%E8%B4%B9%E5%90%97-)
-
-8.[How do I back up the EOS private key?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037505551-%E5%A6%82%E4%BD%95%E5%A4%87%E4%BB%BDEOS%E7%A7%81%E9%92%A5)
-
-9.[How to use EOS observation mode?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037505191-TokenPocke%E9%92%B1%E5%8C%85%E4%B8%AD-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8EOS%E8%A7%82%E5%AF%9F%E6%A8%A1%E5%BC%8F)
-
-10.[What happens when there is no CPU? How to use the smooth mode of tokenpokcet?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037255072-%E6%B2%A1%E6%9C%89CPU%E7%9A%84%E6%97%B6%E5%80%99%E6%80%8E%E4%B9%88%E5%8A%9E-TokenPokcet%E7%9A%84%E9%A1%BA%E7%95%85%E6%A8%A1%E5%BC%8F%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-)
-
-[Click to see more](https://help.mytokenpocket.vip/hc/zh-cn/sections/360007442911-EOS%E9%92%B1%E5%8C%85%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
-
-### Common problems of Tron Wallet
-
-1.[How to obtain TRX wave field?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037354052-%E5%A6%82%E4%BD%95%E8%8E%B7%E5%BE%97TRX%E6%B3%A2%E5%9C%BA-)
-
-2.[How to retrieve TRX from exchange to wallet?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037725931-%E5%A6%82%E4%BD%95%E4%BB%8E%E4%BA%A4%E6%98%93%E6%89%80%E6%8F%90%E5%8F%96TRX%E5%88%B0%E9%92%B1%E5%8C%85-)
-
-3.[How to register and import TRX account?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037354672-%E5%A6%82%E4%BD%95%E6%B3%A8%E5%86%8C%E5%8F%8A%E5%AF%BC%E5%85%A5TRX%E8%B4%A6%E5%8F%B7-)
-
-4.[How to transfer and collect TRX?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037726591-%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8CTRX%E7%9A%84%E8%BD%AC%E8%B4%A6-%E6%94%B6%E6%AC%BE-)
-
-5.[What do you mean by broadband and energy in the wave field?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037730011-%E6%B3%A2%E5%9C%BA%E4%B8%8A%E7%9A%84%E5%AE%BD%E5%B8%A6-%E8%83%BD%E9%87%8F%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D-)
-
-6.[How to freeze and unfreeze resources in wave field?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037726871-%E6%B3%A2%E5%9C%BA%E4%B8%8A%E8%B5%84%E6%BA%90%E5%86%BB%E7%BB%93%E5%92%8C%E8%A7%A3%E5%86%BB%E5%A6%82%E4%BD%95%E6%93%8D%E4%BD%9C-)
-
-7.[How to play DAPP on the wave field?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037355372-%E5%A6%82%E4%BD%95%E7%8E%A9%E6%B3%A2%E5%9C%BA%E4%B8%8A%E7%9A%84DApp-)
-
-8.[How to backup the wave wallet?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037358892-%E6%B3%A2%E5%9C%BA%E9%92%B1%E5%8C%85%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C%E5%A4%87%E4%BB%BD-)
-
-9.[What to do when there is no energy?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037358952-%E6%B2%A1%E6%9C%89%E8%83%BD%E9%87%8F%E5%92%8C%E5%AE%BD%E5%B8%A6%E7%9A%84%E6%97%B6%E5%80%99%E6%80%8E%E4%B9%88%E5%8A%9E-)
-
-10.[How to conduct wave voting?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037359032-%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C%E6%B3%A2%E5%9C%BA%E6%8A%95%E7%A5%A8-)
-
-[Click to see more](https://help.mytokenpocket.vip/hc/zh-cn/sections/360007395352-Tron-%E6%B3%A2%E5%9C%BA-%E9%92%B1%E5%8C%85%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
-
+[Click to see more](https://help.mytokenpocket.vip/hc/en-001/sections/900000146766-ETH)
 
 ### IOST wallet problems
 
-1.[How to create an Iost account?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037990432-%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BAIOST%E8%B4%A6%E5%8F%B7-)
+1.[How to export IOST private key?](https://help.mytokenpocket.vip/hc/en-001/articles/900000983843-How-to-export-IOST-private-key-)
 
-2.[How to transfer the Iost of the exchange to the wallet account?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037990332-%E5%A6%82%E4%BD%95%E6%8A%8A%E4%BA%A4%E6%98%93%E6%89%80%E7%9A%84IOST%E6%8F%90%E5%B8%81%E5%88%B0%E9%92%B1%E5%8C%85%E8%B4%A6%E6%88%B7-)
+2.[How about the speed of IOST transfer? Operating fee?](https://help.mytokenpocket.vip/hc/en-001/articles/900000983803-How-about-the-speed-of-IOST-transfer-Operating-fee-)
 
-3.[How to import the previous Iost account?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360038358591-%E5%A6%82%E4%BD%95%E5%AF%BC%E5%85%A5%E4%B9%8B%E5%89%8D%E7%9A%84IOST%E8%B4%A6%E5%8F%B7-)
+3.[Creation of IOST account by friends](https://help.mytokenpocket.vip/hc/en-001/articles/900000983783-Creation-of-IOST-account-by-friends)
 
-4.[How to collect Iost?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360040722751-IOST%E9%92%B1%E5%8C%85%E7%9A%84%E6%94%B6%E6%AC%BE)
+4.[How to change node in IOST Wallet?](https://help.mytokenpocket.vip/hc/en-001/articles/900000983763-How-to-change-node-in-IOST-Wallet-)
 
-5.[How to transfer the Iost Wallet](https://help.mytokenpocket.vip/hc/zh-cn/articles/360040721791-IOST%E9%92%B1%E5%8C%85%E5%A6%82%E4%BD%95%E8%BD%AC%E8%B4%A6)
+5.[IOST voting tutorial](https://help.mytokenpocket.vip/hc/en-001/articles/900000970346-IOST-voting-tutorial)
 
-6.[What are the resources of the Iost account?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360038358491-IOST%E8%B4%A6%E5%8F%B7%E7%9A%84%E8%B5%84%E6%BA%90%E6%98%AF%E4%BB%80%E4%B9%88-)
+6.[How to convert IOST into EOS, BTC or other coin?](https://help.mytokenpocket.vip/hc/en-001/articles/900000983663-How-to-convert-IOST-into-EOS-BTC-or-other-coin-)
 
-7.[How can Iost mortgage / redeem resources?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037990292-IOST%E6%80%8E%E4%B9%88%E6%8A%B5%E6%8A%BC-%E8%B5%8E%E5%9B%9E%E8%B5%84%E6%BA%90-)
+7.[How to purchase IOST assets through wallet？](https://help.mytokenpocket.vip/hc/en-001/articles/900000970326-How-to-purchase-IOST-assets-through-wallet-)
 
-8.[How to play DAPP app on Iost?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037990272-%E5%A6%82%E4%BD%95%E7%8E%A9IOST%E4%B8%8A%E7%9A%84Dapp%E5%BA%94%E7%94%A8-)
+8.[How to play IOST's DApp?](https://help.mytokenpocket.vip/hc/en-001/articles/900000970286-How-to-play-IOST-s-DApp-)
 
-9.[How to vote for Iost?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360038358451-%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8CIOST%E6%8A%95%E7%A5%A8-)
+9.[How does IOST delegate/refund resources?](https://help.mytokenpocket.vip/hc/en-001/articles/900000983643-How-does-IOST-delegate-refund-resources-)
 
-10.[How to view the detailed block record of Iost transfer?](https://help.mytokenpocket.vip/hc/zh-cn/articles/360037990072-%E5%A6%82%E4%BD%95%E6%9F%A5%E7%9C%8BIOST%E8%BD%AC%E8%B4%A6%E7%9A%84%E8%AF%A6%E7%BB%86%E5%8C%BA%E5%9D%97%E8%AE%B0%E5%BD%95-)
+10.[What are the resources for the IOST account?](https://help.mytokenpocket.vip/hc/en-001/articles/900000963746-What-are-the-resources-for-the-IOST-account-)
 
-[Click to see more](https://help.mytokenpocket.vip/hc/zh-cn/sections/360007631251-IOST-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
+[Click to see more](https://help.mytokenpocket.vip/hc/en-001/sections/900000181783-IOST)
 
 
 
@@ -963,7 +914,7 @@ Can you answer the question of blockchain wallet correctly?
 
 ##### 2.With the consent of the author, the work is allowed to be quoted for non-profit, and the source and the author shall be indicated, so as to respect the work achievements of the author.
 
-##### 3.出处：https://tp-lab.github.io/BlockchainGuideSeries/#/  作者：TokenPocket。
+##### 3.Source：https://tp-lab.github.io/BlockchainGuideSeries/#/  Writer：TokenPocket。
 
 ##### 4.No reprinting without permission. Tokenpocket and the author / translator reserve the right to pursue illegal reprints by legal means.
 
