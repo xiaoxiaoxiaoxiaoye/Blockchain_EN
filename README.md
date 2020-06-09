@@ -870,7 +870,7 @@ https://help.mytokenpocket.vip/hc/en-001/categories/360001557752-User-Guide
 
 
 
-## Blockchain wallet knowledge self test
+<!-- ## Blockchain wallet knowledge self test
 
 
 ```
@@ -883,13 +883,9 @@ Can you answer the question of blockchain wallet correctly?
 <div class="ask-code">
 <div>Scan code self test</div>
 <img src="https://tp-statics.tokenpocket.pro/dapp/tokenpocket-1576248895145.jpeg" width="250">
-</div>
+</div> -->
 
-<!-- <img src="https://tp-statics.tokenpocket.pro/news/tokenpocket-1576125777304.png" width="250"> -->
-<!-- ![](https://tp-statics.tokenpocket.pro/news/tokenpocket-1576125777304.png) -->
-
-
-**Business wechat：laurali0815**
+**Business wechat：mm3mm520**
 
 **Official account:** TokenPocket wallet
 
@@ -914,7 +910,7 @@ Can you answer the question of blockchain wallet correctly?
 
 ##### 2.With the consent of the author, the work is allowed to be quoted for non-profit, and the source and the author shall be indicated, so as to respect the work achievements of the author.
 
-##### 3.Source：https://tp-lab.github.io/BlockchainGuideSeries/#/  Writer：TokenPocket。
+##### 3.Source：https://github.com/TP-Lab/BlockchainGuideSeries-EN  Writer：TokenPocket。
 
 ##### 4.No reprinting without permission. Tokenpocket and the author / translator reserve the right to pursue illegal reprints by legal means.
 
